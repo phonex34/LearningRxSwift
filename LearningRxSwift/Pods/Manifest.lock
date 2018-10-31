@@ -1,0 +1,65 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Kingfisher (4.2.0)
+  - Reachability (3.2)
+  - Realm (3.11.1):
+    - Realm/Headers (= 3.11.1)
+  - Realm/Headers (3.11.1)
+  - RealmSwift (3.11.1):
+    - Realm (= 3.11.1)
+  - RxCocoa (4.0.0):
+    - RxSwift (~> 4.0)
+  - RxRealm (0.7.4):
+    - RealmSwift (~> 3.0)
+    - RxSwift (~> 4.0)
+  - RxRealmDataSources (0.2.9):
+    - RealmSwift (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxRealm (~> 0.7.3)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.0.0)
+  - Then (2.2.1)
+  - Unbox (2.5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher (= 4.2.0)
+  - Reachability (= 3.2.0)
+  - RealmSwift
+  - RxCocoa (= 4.0.0)
+  - RxRealm (= 0.7.4)
+  - RxRealmDataSources (= 0.2.9)
+  - RxSwift (= 4.0.0)
+  - Then (= 2.2.1)
+  - Unbox (= 2.5.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Kingfisher
+    - Reachability
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxRealm
+    - RxRealmDataSources
+    - RxSwift
+    - Then
+    - Unbox
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Kingfisher: 9ee7e788d8ba07c3f21ce0d43f33cec310a4f781
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  Realm: 037c5919b9ceb59d6beed5d3b031096856b119b3
+  RealmSwift: c9580133e73ef40ed340401af2dbc9a5790dfea7
+  RxCocoa: d62846ca96495d862fa4c59ea7d87e5031d7340e
+  RxRealm: 9e203070a6adadd8f2592b58bbc9c8cc40aa35ec
+  RxRealmDataSources: 798303f1d7db18d80da9e95bab9605010378040e
+  RxSwift: fd680d75283beb5e2559486f3c0ff852f0d35334
+  Then: 665607ef49c6c3f66c722cd02b7b53745a622f49
+  Unbox: 30e437e6151a6de16139375fd4e8dd9a664cfbf7
+
+PODFILE CHECKSUM: f55800e8f9a7540dfa96c8b0051d9126f89b6772
+
+COCOAPODS: 1.5.3
